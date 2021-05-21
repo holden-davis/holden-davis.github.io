@@ -40,16 +40,15 @@ social:
   name: Holden Davis
   email: holden.davis.23@gmail.com             # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      
-    - https://github.com/username       
+    # The first element serves as the copyright owner's link     
+    - https://github.com/holden-davis       
     # Uncomment below to add more social links
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'G-GV0RWWT8PK'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
