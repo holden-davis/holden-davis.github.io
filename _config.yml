@@ -17,7 +17,7 @@ timezone: America/Chicago
 # --------------------------
 title: Holden Davis                          # the main title
 
-tagline:  Sophomore Computer Science Major at University of Central Arkansas  # it will display as the sub-title
+tagline:  Junior Computer Science Major at University of Central Arkansas  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Sophomore Computer Science Major at University of Central Arkansas
