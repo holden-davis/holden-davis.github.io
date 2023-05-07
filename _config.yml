@@ -17,10 +17,10 @@ timezone: America/Chicago
 # --------------------------
 title: Holden Davis                          # the main title
 
-tagline:  Senior Computer Science Major at University of Central Arkansas  # it will display as the sub-title
+tagline:  B.S. Computer Science, UCA 2023  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Senior Computer Science Major at University of Central Arkansas
+  B.S. Computer Science, UCA 2023
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
